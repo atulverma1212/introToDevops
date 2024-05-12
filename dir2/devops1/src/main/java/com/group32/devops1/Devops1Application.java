@@ -11,5 +11,4 @@ public class Devops1Application {
         System.out.println("I am in feature branch");
         SpringApplication.run(Devops1Application.class, args);
     }
-
 }
